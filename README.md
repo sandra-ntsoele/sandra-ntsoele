@@ -13,7 +13,7 @@ and was later introduced to **Express** and a little MongoDB by a friend.
 
 ### And I’m interested in 👀 ...
 
-Being a **full-stack developer**. Or alternatively... a good **back-end developer** with some front-end development knowledge.
+Becoming a **back-end developer**. 
 
 ### My expertise are 🛠️ ... 
 - HTML/CSS
