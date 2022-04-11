@@ -1,6 +1,8 @@
 ### Hello stranger 👋  
 
-My name is Sandra Ntsoele. An aspiring **self-taught programmer**. 
+My name is Sandra Ntsoele. 
+
+A digital marketer transitioning to **software developer**. 
 
 I began learning the fundamentals of programming with Java but quickly abandoned it 
 after developing an interest in web development. 
@@ -9,13 +11,13 @@ and was later introduced to **Express** and a little MongoDB by a friend.
 
 ### I’m currently learning 📚...
 
-- C# and .NET Core
+- C# and Flutter
 
 ### And I’m interested in 👀 ...
 
 Becoming a **back-end developer**. 
 
-### My expertise are 🛠️ ... 
+### Current Knowledge Bank 🛠️ ... 
 - HTML/CSS
 - JavaScript
 - Express
