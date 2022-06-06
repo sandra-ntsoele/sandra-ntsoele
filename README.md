@@ -2,12 +2,7 @@
 
 My name is Sandra Ntsoele. 
 
-A digital marketer transitioning to **software developer**. 
-
-I began learning the fundamentals of programming with Java but quickly abandoned it 
-after developing an interest in web development. 
-I then began learning **HTML/CSS/JavaScript**, created a few hideous websites, 
-and was later introduced to **Express** and a little MongoDB by a friend.
+A digital marketer making a transition in to **software development**. 
 
 ### I’m currently learning 📚...
 
@@ -20,8 +15,7 @@ Becoming a **back-end developer**.
 ### Current Knowledge Bank 🛠️ ... 
 - HTML/CSS
 - JavaScript
-- Express
-- Wordpress
+- SQL
 
 ### You can reach me via 📫 ...
 - e-mail: sandra.ntsoele@pm.me
