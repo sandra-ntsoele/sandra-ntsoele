@@ -2,7 +2,7 @@
 
 My name is Sandra Ntsoele. 
 
-A digital marketer making a transition in to **software development**. 
+A digital marketing student making a transition in to **software development**. 
 
 ### I’m currently learning 📚...
 
