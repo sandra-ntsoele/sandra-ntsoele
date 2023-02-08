@@ -1,10 +1,7 @@
 ### Hello stranger 👋  
+Making the transition from digital marketing to **software development**. 
 
-My name is Sandra Ntsoele. 
-
-A digital marketing student making a transition in to **software development**. 
-
-### I’m currently learning 📚...
+### Currently learning 📚...
 
 - C# and Flutter
 
