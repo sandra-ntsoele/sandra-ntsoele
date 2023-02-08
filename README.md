@@ -1,11 +1,10 @@
-### Hello stranger 👋  
-Making the transition from digital marketing to **software development**. 
+## Making the transition from digital marketing to **software development**. 
 
 ### Currently learning 📚...
 
 - C# and Flutter
 
-### And I’m interested in 👀 ...
+### Interested in 👀 ...
 
 Becoming a **back-end developer**. 
 
